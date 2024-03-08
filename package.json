@@ -1,0 +1,20 @@
+{
+  "name": "uno",
+  "version": "0.0.1",
+  "description": "Node and Typescript package template",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Callum Kloos",
+  "license": "ISC",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "devDependencies": {
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.2"
+  }
+}
